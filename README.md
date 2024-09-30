@@ -1,8 +1,7 @@
 # Vehicle Builder CLI Application
 
 ## Walkthrough Video
-[Click here to watch the video walkthrough] https://drive.google.com/file/d/1pxNljxiEsxuZ8oDKgWCKOo1svOWLp5VI/view?usp=sharing
-
+[Click here to watch the video walkthrough] (https://youtu.be/SVIulAzNmSM)
 ## Description
 The Vehicle Builder is a TypeScript-based command-line interface (CLI) application that allows users to create and interact with different types of vehicles, including cars, trucks, and motorbikes. Users can create vehicles, perform various actions on them such as starting, accelerating, turning, and, for trucks, towing other vehicles, and for motorbikes, performing a wheelie.
 
